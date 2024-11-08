@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="recept.css" type="text/css"?>
+<r:RecipeBook xmlns:r="recipe.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="recipe.com recept.xsd">
+    
+    <r:Recipe>
+        <r:Title>Spaghetti Carbonara</r:Title>
+        <r:Ingredients>
+            <r:Ingredient>
+                <r:Name>spaghetti</r:Name>
+                <r:Quantity>200</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>egg yolk</r:Name>
+                <r:Quantity>4</r:Quantity>
+                <r:Unit>pcs</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>pancetta</r:Name>
+                <r:Quantity>100</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>parmesan</r:Name>
+                <r:Quantity>50</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>black pepper</r:Name>
+                <r:Quantity>1</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+        </r:Ingredients>
+        <r:Instructions>
+            Boil the spaghetti. In a separate pan, fry the pancetta. Mix egg yolks with parmesan. Combine everything and season with black pepper.
+        </r:Instructions>
+        <r:PreparationTime>10</r:PreparationTime>
+        <r:CookingTime>15</r:CookingTime>
+        <r:ServingSize>2</r:ServingSize>
+        <r:Category>Main Course</r:Category>
+        <r:Difficulty>Medium</r:Difficulty>
+        <r:Nutrition calories="700" fat="35g" protein="25g" carbs="70g"/>
+        <r:Image>carbonara.jpg</r:Image>
+    </r:Recipe>
+
+    <r:Recipe>
+        <r:Title>Vegetable Stir-Fry</r:Title>
+        <r:Ingredients>
+            <r:Ingredient>
+                <r:Name>bell peppers</r:Name>
+                <r:Quantity>100</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>carrot</r:Name>
+                <r:Quantity>50</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>broccoli</r:Name>
+                <r:Quantity>80</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>soy sauce</r:Name>
+                <r:Quantity>15</r:Quantity>
+                <r:Unit>ml</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>olive oil</r:Name>
+                <r:Quantity>10</r:Quantity>
+                <r:Unit>ml</r:Unit>
+            </r:Ingredient>
+        </r:Ingredients>
+        <r:Instructions>
+            Stir-fry the vegetables in olive oil. Add soy sauce and cook until tender.
+        </r:Instructions>
+        <r:PreparationTime>10</r:PreparationTime>
+        <r:CookingTime>10</r:CookingTime>
+        <r:ServingSize>2</r:ServingSize>
+        <r:Category>Main Course</r:Category>
+        <r:Difficulty>Easy</r:Difficulty>
+        <r:Nutrition calories="200" fat="10g" protein="5g" carbs="20g"/>
+        <r:Image>vegetable_stir_fry.jpg</r:Image>
+    </r:Recipe>
+    
+    <r:Recipe>
+        <r:Title>Beef Tacos</r:Title>
+        <r:Ingredients>
+            <r:Ingredient>
+                <r:Name>ground beef</r:Name>
+                <r:Quantity>200</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>taco seasoning</r:Name>
+                <r:Quantity>15</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>lettuce</r:Name>
+                <r:Quantity>50</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>cheddar cheese</r:Name>
+                <r:Quantity>30</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>taco shells</r:Name>
+                <r:Quantity>3</r:Quantity>
+                <r:Unit>pcs</r:Unit>
+            </r:Ingredient>
+        </r:Ingredients>
+        <r:Instructions>
+            Cook ground beef with seasoning. Fill taco shells with beef, lettuce, and cheese.
+        </r:Instructions>
+        <r:PreparationTime>10</r:PreparationTime>
+        <r:CookingTime>15</r:CookingTime>
+        <r:ServingSize>1</r:ServingSize>
+        <r:Category>Main Course</r:Category>
+        <r:Difficulty>Easy</r:Difficulty>
+        <r:Nutrition calories="500" fat="25g" protein="20g" carbs="35g"/>
+        <r:Image>beef_tacos.jpg</r:Image>
+    </r:Recipe>
+    
+    <r:Recipe>
+        <r:Title>Avocado Toast</r:Title>
+        <r:Ingredients>
+            <r:Ingredient>
+                <r:Name>bread slice</r:Name>
+                <r:Quantity>2</r:Quantity>
+                <r:Unit>pcs</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>avocado</r:Name>
+                <r:Quantity>1</r:Quantity>
+                <r:Unit>pcs</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>lemon juice</r:Name>
+                <r:Quantity>10</r:Quantity>
+                <r:Unit>ml</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>salt</r:Name>
+                <r:Quantity>1</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+            <r:Ingredient>
+                <r:Name>black pepper</r:Name>
+                <r:Quantity>1</r:Quantity>
+                <r:Unit>g</r:Unit>
+            </r:Ingredient>
+        </r:Ingredients>
+        <r:Instructions>
+            Mash avocado with lemon juice, salt, and pepper. Spread on toasted bread.
+        </r:Instructions>
+        <r:PreparationTime>5</r:PreparationTime>
+        <r:CookingTime>2</r:CookingTime>
+        <r:ServingSize>1</r:ServingSize>
+        <r:Category>Breakfast</r:Category>
+        <r:Difficulty>Easy</r:Difficulty>
+        <r:Nutrition calories="300" fat="15g" protein="5g" carbs="30g"/>
+        <r:Image>avocado_toast.jpg</r:Image>
+    </r:Recipe>
+ 
+    <r:MealPlan>
+        <r:Day name="Monday">
+            <r:Meal type="Breakfast">
+                <r:RecipeReference>Avocado Toast</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Lunch">
+                <r:RecipeReference>Vegetable Stir-Fry</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Dinner">
+                <r:RecipeReference>Spaghetti Carbonara</r:RecipeReference>
+            </r:Meal>
+        </r:Day>
+        <r:Day name="Tuesday">
+            <r:Meal type="Breakfast">
+                <r:RecipeReference>Beef Tacos</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Lunch">
+                <r:RecipeReference>Chicken Caesar Salad</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Dinner">
+                <r:RecipeReference>Vegetable Stir-Fry</r:RecipeReference>
+            </r:Meal>
+        </r:Day>
+        <r:Day name="Wednesday">
+            <r:Meal type="Breakfast">
+                <r:RecipeReference>Spaghetti Carbonara</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Lunch">
+                <r:RecipeReference>Avocado Toast</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Dinner">
+                <r:RecipeReference>Beef Tacos</r:RecipeReference>
+            </r:Meal>
+        </r:Day>
+        <r:Day name="Thursday">
+            <r:Meal type="Breakfast">
+                <r:RecipeReference>Chicken Caesar Salad</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Lunch">
+                <r:RecipeReference>Spaghetti Carbonara</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Dinner">
+                <r:RecipeReference>Vegetable Stir-Fry</r:RecipeReference>
+            </r:Meal>
+        </r:Day>
+        <r:Day name="Friday">
+            <r:Meal type="Breakfast">
+                <r:RecipeReference>Avocado Toast</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Lunch">
+                <r:RecipeReference>Vegetable Stir-Fry</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Dinner">
+                <r:RecipeReference>Beef Tacos</r:RecipeReference>
+            </r:Meal>
+        </r:Day>
+        <r:Day name="Saturday">
+            <r:Meal type="Breakfast">
+                <r:RecipeReference>Avocado Toast</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Lunch">
+                <r:RecipeReference>Spaghetti Carbonara</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Dinner">
+                <r:RecipeReference>Vegetable Stir-Fry</r:RecipeReference>
+            </r:Meal>
+        </r:Day>
+        <r:Day name="Sunday">
+            <r:Meal type="Breakfast">
+                <r:RecipeReference>Chicken Caesar Salad</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Lunch">
+                <r:RecipeReference>Avocado Toast</r:RecipeReference>
+            </r:Meal>
+            <r:Meal type="Dinner">
+                <r:RecipeReference>Beef Tacos</r:RecipeReference>
+            </r:Meal>
+        </r:Day>
+    </r:MealPlan>
+</r:RecipeBook>
